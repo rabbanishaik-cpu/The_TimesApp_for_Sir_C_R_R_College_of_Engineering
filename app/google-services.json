@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "462611163221",
+    "firebase_url": "https://mera-timetable.firebaseio.com",
+    "project_id": "mera-timetable",
+    "storage_bucket": "mera-timetable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462611163221:android:d5a5158d55223ebce50cdc",
+        "android_client_info": {
+          "package_name": "com.example.meratimetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462611163221-0r5dq07ln55dsd3qop0f8rmhd2lcgm7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meratimetable",
+            "certificate_hash": "acf52e81c2781b4b62fe1721b1873a36f2fbf223"
+          }
+        },
+        {
+          "client_id": "462611163221-4fajpqg5c995cput2o4gb6useo8da6rn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meratimetable",
+            "certificate_hash": "7c7458c51c812cfbdf8e014e4b420df54290de2a"
+          }
+        },
+        {
+          "client_id": "462611163221-6bldeefl21lhaa5hnkkkg40odj01g29u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyUIRwMt6hNQlh6vQiX4zOQhX4kvHe_qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462611163221-6bldeefl21lhaa5hnkkkg40odj01g29u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
